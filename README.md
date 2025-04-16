@@ -16,7 +16,11 @@
   Studio e approfondimento sul metodo computazionale UMAP per la riduzione di dimensionalità e la visualizzazione di dati clinici.   <br/>
   Codice della tesi in linguaggio R <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="python" width="20" height="20"/> , utilizzando come ambiente di sviluppo RStudio 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="python" width="20" height="20"/> , controllo delle versioni e condivisione con GitHub <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="python" width="20" height="20"/>.  <br/>
-  https://github.com/GiulioRiggio/UMAP-R
+  Repository: https://github.com/GiulioRiggio/UMAP-R    <br/>
+  <a href="https://github.com/GiulioRiggio/GiulioRiggio/blob/main/Riggio_Giulio_slide_LT_23072024.pdf">
+  Slide di presentazione della tesi
+</a>
+  
 </p>
 
 ### Progetto del corso di Ingegneria del Software
