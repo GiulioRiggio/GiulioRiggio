@@ -18,6 +18,11 @@
   https://github.com/GiulioRiggio/UMAP-R
 </p>
 
+### Progetto del corso di Ingegneria del Software
+Progetto web-based e client-server, abbiamo utilizzato sia Node.js, sia il framework web React.  <br/>
+React è una libreria JavaScript per la creazione di interfacce utente. <br/>
+https://github.com/UnimibSoftEngCourse2021/progetto-monopoly-1-gruppo-monopoly-1
+
 ## 🔧 Code Skills and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> &nbsp;
