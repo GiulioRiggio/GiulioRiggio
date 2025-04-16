@@ -4,8 +4,18 @@
 
 ## Hi there 👋 I'm Giulio Riggio
 
-Mi sono laureato a luglio 2024 in $${\color{green} Computer\ Science}$$, all'Università degli studi di Milano-Bicocca. $${\color{green} UniMiB}$$ <br/>
-Skilled in Python, HTML, CSS, JavaScript, MySQL, NodeJS, PHP.
+<table style="width:100%; border=0">
+  <tr>
+    <td><img src="scientifica_logo.png" alt="" width="60" height="60"/></td>
+    <td>Mi sono laureato a luglio 2024 in $${\color{green} Computer\ Science}$$, all'Università degli studi di Milano-Bicocca $${\color{green} UniMiB}$$. </td>
+  </tr>
+</table>
+
+### Tesi 
+<p align="left">
+  Studio e approfondimento sul metodo computazionale UMAP per la riduzione di dimensionalità e la visualizzazione di dati clinici   <br/>
+  https://github.com/GiulioRiggio/UMAP-R
+</p>
 
 ## 🔧 Code Skills and Tools
 <p align="left">
