@@ -13,7 +13,8 @@
 
 ### Tesi 
 <p align="left">
-  Studio e approfondimento sul metodo computazionale UMAP per la riduzione di dimensionalità e la visualizzazione di dati clinici   <br/>
+  Studio e approfondimento sul metodo computazionale UMAP per la riduzione di dimensionalità e la visualizzazione di dati clinici.   <br/>
+  Codice della tesi in linguaggio R.  <br/>
   https://github.com/GiulioRiggio/UMAP-R
 </p>
 
