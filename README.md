@@ -19,7 +19,9 @@
 </p>
 
 ### Progetto del corso di Ingegneria del Software
-Progetto web-based e client-server, abbiamo utilizzato sia Node.js, sia il framework web React.  <br/>
+Progetto web-based e client-server, abbiamo utilizzato Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>, 
+una libreria e un ambiente runtime multipiattaforma. Esso è utilizzato per la creazione di applicazioni JavaScript lato server. <br/>
+Insieme a Node.js abbiamo utilizzato il framework web React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="python" width="20" height="20"/>. 
 React è una libreria JavaScript per la creazione di interfacce utente. <br/>
 https://github.com/UnimibSoftEngCourse2021/progetto-monopoly-1-gruppo-monopoly-1
 
